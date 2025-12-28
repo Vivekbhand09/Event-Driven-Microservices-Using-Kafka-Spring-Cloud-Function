@@ -188,7 +188,7 @@ Core ideas:
 
 ## 🔄 Kafka Architecture – Detailed Flow
 
-![RabbitMQ Architecture](utils/kafka.webp)
+
 
 ### 1️⃣ Producer Sends Event
 - Producer creates an event (key + value)
